@@ -7,6 +7,8 @@ Demonstration of:
 * [Node](https://nodejs.org/) runtime built on Chrome's V8 JavaScript engine
 * [ChromeDriver](https://developer.chrome.com/docs/chromedriver) extends Webdriver by adding Chromium-specific capabilities
 
+The exact scenario this demo walks through is specified in [spec/index.md](spec/index.md); the code and the spec must agree.
+
 Many more examples are here:
 
 * [SeleniumHQ examples](https://github.com/SeleniumHQ/seleniumhq.github.io/tree/trunk/examples)

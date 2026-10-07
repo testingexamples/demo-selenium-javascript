@@ -1,6 +1,6 @@
 ---
 name: demo-selenium-javascript
-description: Explains and adapts the demo-selenium-javascript Selenium WebDriver walkthrough (locating elements by id/name/class/link-text/xpath, filling a text input, checking a checkbox/radio, selecting a dropdown option) against https://testingexamples.github.io; invoke when asked to run, explain, extend, or port this demo, or to adapt it to a different site or Selenium version.
+description: Explains and adapts the demo-selenium-javascript Selenium WebDriver walkthrough (locating elements by id/name/class/link-text/xpath, filling a text input, checking a checkbox/radio, selecting a dropdown option) against https://testingexamples.github.io/en-001/practice/; invoke when asked to run, explain, extend, or port this demo, or to adapt it to a different site or Selenium version.
 ---
 
 This skill covers the `demo-selenium-javascript` repo: a small Node.js
@@ -8,7 +8,7 @@ script (`src/demo.js`) that teaches the core Selenium WebDriver locator
 strategies (`By.id`, `By.name`, `By.className`, `By.linkText`, `By.xpath`)
 and the basic form interactions (typing into a text input, checking a
 checkbox, checking a radio button, selecting a dropdown option) against the
-public demo site https://testingexamples.github.io.
+public demo site https://testingexamples.github.io/en-001/practice/.
 
 To run it: install Node and npm, then
 `npm install --save selenium-webdriver@latest chromedriver@latest` (see
